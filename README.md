@@ -34,3 +34,4 @@ npm run build
 ## Deployment
 
 Questo progetto è configurato per essere facilmente deployato su Vercel.
+# sbuccia
