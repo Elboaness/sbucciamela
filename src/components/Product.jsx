@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import Countdown from 'react-countdown';
 import { FaStar, FaCheck, FaTruck, FaShieldAlt, FaArrowRight } from 'react-icons/fa';
+import sbucciamelaImg from '../assets/images/61yv5dbjWlL._AC_UF894,1000_QL80_.jpg';
 
 const ProductContainer = styled.section`
   max-width: 1200px;
@@ -289,9 +290,7 @@ const Product = ({ addToCart }) => {
   return (
     <ProductContainer>
       <ImageSection>
-        <ImagePlaceholder>
-          Immagine dello SbucciAmela Pro 2.0
-        </ImagePlaceholder>
+        <img src={sbucciamelaImg} alt="SbucciAmela Pro 2.0" />
       </ImageSection>
       
       <ProductInfo>
