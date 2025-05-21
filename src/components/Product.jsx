@@ -290,14 +290,14 @@ const Product = ({ addToCart }) => {
     <ProductContainer>
       <ImageSection>
         <ImagePlaceholder>
-          Immagine dello SbucciAmela
+          Immagine dello SbucciAmela Pro 2.0
         </ImagePlaceholder>
       </ImageSection>
       
       <ProductInfo>
         <div>
-          <ProductTitle>SbucciAmela Pro</ProductTitle>
-          <ProductSubtitle>Lo sbucciamele professionale che rivoluzionerà la tua cucina</ProductSubtitle>
+          <ProductTitle>SbucciAmela Pro 2.0</ProductTitle>
+          <ProductSubtitle>Lo sbucciamele professionale di nuova generazione che rivoluzionerà la tua cucina</ProductSubtitle>
         </div>
         
         <ReviewsContainer>
